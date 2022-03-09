@@ -1,0 +1,73 @@
+{
+  "id": "01c4cbda-01e7-4972-9063-d3a6e6c55554",
+  "version": "2.0",
+  "name": "qweq",
+  "url": "https://www.aviasales.by",
+  "tests": [{
+    "id": "1328a2be-4df7-4523-8682-a38404f56e7e",
+    "name": "qweq",
+    "commands": [{
+      "id": "90bbd753-b0e6-4c05-af36-3acd6ab2036c",
+      "comment": "",
+      "command": "open",
+      "target": "/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "49e9dfbc-7c61-465f-a00f-7bcc5c6339f1",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1500x600",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "6b304060-10dc-4cec-a4a9-9a97f47f0f4f",
+      "comment": "",
+      "command": "type",
+      "target": "xpath=//input[@id='destination']",
+      "targets": [
+        ["id=destination", "id"],
+        ["css=#destination", "css:finder"],
+        ["xpath=//input[@id='destination']", "xpath:attributes"],
+        ["xpath=//div[2]/div/div/input", "xpath:position"]
+      ],
+      "value": "Омск "
+    }, {
+      "id": "a51ce1ce-2a93-47de-9704-59814da95471",
+      "comment": "",
+      "command": "verifyText",
+      "target": "xpath=//div[contains(@class, 'avia-form__field --destination')]//span",
+      "targets": [],
+      "value": "OMS"
+    }, {
+      "id": "5d9e862b-7811-4008-a432-c737fc501675",
+      "comment": "",
+      "command": "clickAt",
+      "target": "xpath=//div[@data-test-id=\"swap-places\"]",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "9579b806-8ded-473f-9019-7e437ce28a2f",
+      "comment": "",
+      "command": "verifyValue",
+      "target": "xpath=//input[@id='origin']",
+      "targets": [
+        ["id=origin", "id"],
+        ["css=#origin", "css:finder"],
+        ["xpath=//input[@id='origin']", "xpath:attributes"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": "Омск"
+    }]
+  }],
+  "suites": [{
+    "id": "0a20509f-00f3-4ee8-88fb-e01bd60b6ef8",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["1328a2be-4df7-4523-8682-a38404f56e7e"]
+  }],
+  "urls": ["https://www.aviasales.by/"],
+  "plugins": []
+}

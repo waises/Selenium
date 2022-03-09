@@ -1,1 +1,6 @@
 #gitignore_file
+desktop.ini
+..\TestProject1\bin
+..\TestProject1\obj
+..\TestProject1.csproj
+..\TestProject1.sln

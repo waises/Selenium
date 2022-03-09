@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "QwAchR92z3LjhT7n2iukOpA5MDu91c1CFkmSwoYLrj2Guy/Gp4XvvvCg76xkeIwYBtchZJjVa3g/twI4fT+VKA==",
+  "success": true,
+  "projectFilePath": "C:\\learning\\Selenium\\Selenium\\TestProject1\\TestProject1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kkpav\\.nuget\\packages\\coverlet.collector\\3.1.0\\coverlet.collector.3.1.0.nupkg.sha512",
+    "C:\\Users\\kkpav\\.nuget\\packages\\microsoft.codecoverage\\16.11.0\\microsoft.codecoverage.16.11.0.nupkg.sha512",
+    "C:\\Users\\kkpav\\.nuget\\packages\\microsoft.net.test.sdk\\16.11.0\\microsoft.net.test.sdk.16.11.0.nupkg.sha512",
+    "C:\\Users\\kkpav\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\kkpav\\.nuget\\packages\\microsoft.testplatform.objectmodel\\16.11.0\\microsoft.testplatform.objectmodel.16.11.0.nupkg.sha512",
+    "C:\\Users\\kkpav\\.nuget\\packages\\microsoft.testplatform.testhost\\16.11.0\\microsoft.testplatform.testhost.16.11.0.nupkg.sha512",
+    "C:\\Users\\kkpav\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\kkpav\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\kkpav\\.nuget\\packages\\nuget.frameworks\\5.0.0\\nuget.frameworks.5.0.0.nupkg.sha512",
+    "C:\\Users\\kkpav\\.nuget\\packages\\nunit\\3.13.2\\nunit.3.13.2.nupkg.sha512",
+    "C:\\Users\\kkpav\\.nuget\\packages\\nunit3testadapter\\4.0.0\\nunit3testadapter.4.0.0.nupkg.sha512",
+    "C:\\Users\\kkpav\\.nuget\\packages\\selenium.webdriver\\4.1.0\\selenium.webdriver.4.1.0.nupkg.sha512",
+    "C:\\Users\\kkpav\\.nuget\\packages\\selenium.webdriver.chromedriver\\99.0.4844.5100\\selenium.webdriver.chromedriver.99.0.4844.5100.nupkg.sha512",
+    "C:\\Users\\kkpav\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
