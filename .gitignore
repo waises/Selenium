@@ -1,1 +1,5 @@
-#gitignore_file
+#gitignore
+**/bin/
+**/obj/
+**/.vs/
+**/iipqg4dg.rxj~
